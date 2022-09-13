@@ -21,10 +21,16 @@ Run `npm run build` to make a production version of the project
 ### useful links
 
 - [Vite](https://vitejs.dev/)
+- [TypeScript](https://www.typescriptlang.org/)
+- [Tailwind](https://tailwindcss.com/)
+- [PhosphorIcons](https://phosphoricons.com/)
 
 ### comandos utilizados
 
 - `npm create vite@latest`
+- `npm install -D tailwindcss postcss autoprefixer`
+- `npx tailwindcss init -p`
+- `npm i phosphor-react`
 
 ## server
 
