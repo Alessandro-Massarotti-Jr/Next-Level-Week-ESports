@@ -46,6 +46,7 @@ Run `npm run build` to make a production version of the project
 
 - [Express](https://expressjs.com/)
 - [TypeScript](https://www.typescriptlang.org/)
+- [Prisma](https://www.prisma.io/)
 
 ### comandos utilizados
 
@@ -55,6 +56,11 @@ Run `npm run build` to make a production version of the project
 - `npx tsc --init`
 - `npm i @types/express -D`
 - `npm i ts-node-dev -D`
+- `npm i prisma -D`
+- `npx prisma init`
+- `npm i @prisma/client`
+- `npm i cors`
+- `npm i @types/cors -D`
 
 ## mobile
 
