@@ -67,11 +67,15 @@ Run `expo start` to start development server
 ### useful links
 
 - [Expo](https://expo.dev/)
+- [React navigation](https://reactnavigation.org/)
 
 ### comandos utilizados
 
 - `npm install -g expo-cli`
 - `expo init mobile`
+- `expo install expo-font @expo-google-fonts/inter`
+- `expo install react-native-safe-area-context`
+- `expo install expo-linear-gradient`
 
 
 <br>
