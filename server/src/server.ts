@@ -56,7 +56,7 @@ app.get('/games/:id/ads', async (request, response) => {
             useVoiceChannel: true,
             yearsPlaying: true,
             hourStart: true,
-            hourEnd: true
+            hourEnd: true,
         },
         where: {
             gameId: gameId
@@ -79,7 +79,7 @@ app.get('/ads/:id/discord', async (request, response) => {
 
     const adId = request.params.id;
 
-    const ad = prisma.ad.findUniqueOrThrow({
+    const ad = await prisma.ad.findUniqueOrThrow({
         select: {
             discord: true
         },
@@ -88,9 +88,7 @@ app.get('/ads/:id/discord', async (request, response) => {
         }
     });
 
-    return response.json({
-        discord: ad
-    })
+    return response.json(ad)
 })
 
 
