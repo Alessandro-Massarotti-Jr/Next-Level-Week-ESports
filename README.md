@@ -8,7 +8,7 @@
 
 Projeto desenvolvido durante a Next Level week ESports em setembro de 2022
 
-## client
+## Web
 
 ### start guide
 
@@ -24,6 +24,7 @@ Run `npm run build` to make a production version of the project
 - [TypeScript](https://www.typescriptlang.org/)
 - [Tailwind](https://tailwindcss.com/)
 - [PhosphorIcons](https://phosphoricons.com/)
+- [Radix-ui](https://www.radix-ui.com/)
 
 ### comandos utilizados
 
@@ -31,8 +32,9 @@ Run `npm run build` to make a production version of the project
 - `npm install -D tailwindcss postcss autoprefixer`
 - `npx tailwindcss init -p`
 - `npm i phosphor-react`
+- `npm i @radix-ui/react-dialog`
 
-## server
+## Server
 
 ### start guide
 
@@ -62,7 +64,7 @@ Run `npm run build` to make a production version of the project
 - `npm i cors`
 - `npm i @types/cors -D`
 
-## mobile
+## Mobile
 
 ### start guide
 
