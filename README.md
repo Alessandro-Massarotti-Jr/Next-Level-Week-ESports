@@ -25,6 +25,7 @@ Run `npm run build` to make a production version of the project
 - [Tailwind](https://tailwindcss.com/)
 - [PhosphorIcons](https://phosphoricons.com/)
 - [Radix-ui](https://www.radix-ui.com/)
+- [Axios](https://axios-http.com/ptbr/docs/intro)
 
 ### comandos utilizados
 
@@ -33,6 +34,9 @@ Run `npm run build` to make a production version of the project
 - `npx tailwindcss init -p`
 - `npm i phosphor-react`
 - `npm i @radix-ui/react-dialog`
+- `npm i @radix-ui/react-checkbox`
+- `npm i @radix-ui/react-toggle-group`
+- `npm i axios`
 
 ## Server
 
