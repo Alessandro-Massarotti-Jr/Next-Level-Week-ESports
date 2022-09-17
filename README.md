@@ -96,7 +96,8 @@ Run `expo start` to start development server
 - `npm install --save phosphor-react-native`
 - `expo install react-native-svg`
 - `expo install expo-clipboard`
-
+- `npx expo install expo-notifications`
+- `npx expo install expo-modules-core`
 
 <br>
 
