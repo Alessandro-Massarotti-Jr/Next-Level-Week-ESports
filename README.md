@@ -95,6 +95,7 @@ Run `expo start` to start development server
 - `npm install @react-navigation/native-stack`
 - `npm install --save phosphor-react-native`
 - `expo install react-native-svg`
+- `expo install expo-clipboard`
 
 
 <br>
