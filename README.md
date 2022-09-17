@@ -76,6 +76,8 @@ Run `expo start` to start development server
 
 - [Expo](https://expo.dev/)
 - [React navigation](https://reactnavigation.org/)
+- [React Native Vection Icons](https://oblador.github.io/react-native-vector-icons/)
+- [React Native Phosphor Icons](https://github.com/duongdev/phosphor-react-native)
 
 ### comandos utilizados
 
@@ -84,6 +86,11 @@ Run `expo start` to start development server
 - `expo install expo-font @expo-google-fonts/inter`
 - `expo install react-native-safe-area-context`
 - `expo install expo-linear-gradient`
+- `npm install @react-navigation/native`
+- `npx expo install react-native-screens react-native-safe-area-context`
+- `npm install @react-navigation/native-stack`
+- `npm install --save phosphor-react-native`
+- `expo install react-native-svg`
 
 
 <br>
