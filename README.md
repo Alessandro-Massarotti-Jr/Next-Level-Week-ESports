@@ -8,6 +8,8 @@
 
 Projeto desenvolvido durante a Next Level week ESports em setembro de 2022
 
+<img src="./img/nlwEsports.png" alt="ScreenShot"/>
+
 ## Web
 
 ### start guide
